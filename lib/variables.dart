@@ -1,5 +1,5 @@
 class Variables {
- static variable(){
+  static variable() {
     // var name = "Ahsan";
     // print(name);
 
@@ -16,16 +16,16 @@ class Variables {
     // const a = 4;
     // print(a);
 
-//  To declare a variable: 
+//  To declare a variable:
     // String name = "Ahsan";
-    //  To declare multiple variables of the same type: 
+    //  To declare multiple variables of the same type:
     // String userName, age, location;
     // userName = "Ahsan Khan";
     // age = "19";
     // location = "Lahore";
 
 // Types of Variables
-// Type of the variable can be among: 
+// Type of the variable can be among:
 
 //1. Static Variable
 //2. Dynamic Variable
@@ -51,8 +51,15 @@ class Variables {
 
 // Write a program to swap two numbers using a third variable.
 
+    // int a, b, c;
+    // a = 10;
+    // b = 5;
+    // c = a;
+    // a = b;
+    // b = c;
 
-
-
+    
+    // print(a);
+    // print(b);
   }
 }
