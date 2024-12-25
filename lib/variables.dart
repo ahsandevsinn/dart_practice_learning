@@ -61,5 +61,12 @@ class Variables {
     
     // print(a);
     // print(b);
+
+    // Calculate the area of a rectangle given its length and width.
+    int length = 2;
+    int width = 2;
+    // formula A=wl
+      int area = length * width;
+      print(area);
   }
 }
