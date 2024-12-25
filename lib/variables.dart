@@ -63,10 +63,15 @@ class Variables {
     // print(b);
 
     // Calculate the area of a rectangle given its length and width.
-    int length = 2;
-    int width = 2;
-    // formula A=wl
-      int area = length * width;
-      print(area);
+    // int length = 2;
+    // int width = 2;
+    // // formula A=wl
+    //   int area = length * width;
+    //   print(area);
+
+    // Store a name in a variable and print a greeting message using it.
+    // String name = "Ahsan";
+    // print("Hello $name");
+
   }
 }
