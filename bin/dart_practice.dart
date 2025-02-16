@@ -20,7 +20,15 @@ void main(List<String> arguments) {
 // Write a function printLength that takes a nullable String as input and prints its length if the string is not null. Otherwise, print "String is null".
 // String  a= "Ahsan";
 // printLength(a);
-  
+
+// Declare a late variable username and initialize it in a function. Then, print the value of username. What happens if you try to print username before initializing it?
+//   late String username;
+// void printUserName(){
+//   username = "Ahsan";
+//   print(username);
+// }
+
+// printUserName();
 }
 
 // void printLength(String? length) {
