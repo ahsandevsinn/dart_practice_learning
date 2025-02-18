@@ -1,3 +1,5 @@
+late String a ;
+
 void main(List<String> arguments) {
 // A variable age that can hold an integer or null.
 //   int? age;
@@ -29,6 +31,14 @@ void main(List<String> arguments) {
 // }
 
 // printUserName();
+
+// int? lineCount;
+//     print("objectlineCount before $lineCount");
+//  lineCount = 10;
+//     print("objectlineCount after $lineCount");
+a = "Ahsan";
+print(a);
+
 }
 
 // void printLength(String? length) {
