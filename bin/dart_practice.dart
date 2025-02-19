@@ -36,7 +36,16 @@ void main(List<String> arguments) {
 //     print("objectlineCount before $lineCount");
 //  lineCount = 10;
 //     print("objectlineCount after $lineCount");
-a = "Ahsan";
+// a = "Ahsan";
+// print(a);
+// final String a = "ahsan";
+// a = "Khan";
+// const String b = "Ahsan";
+// b = " flkds";
+// print(a);
+// print(b);
+var a = "Ahsan";
+a = "Khan";
 print(a);
 
 }
